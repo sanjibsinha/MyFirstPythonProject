@@ -27,9 +27,7 @@ while i <= 10:
     print(i)
     i += 1 # i = i + 1
 
-
-
-
+# avoid infinite loop
 # break and continue
 for i in range(1, 10):
     if i == 5:
