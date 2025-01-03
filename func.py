@@ -9,7 +9,7 @@ def greet(name):
 
     return f'Hello, {name}!'
 
-print(greet('Sanjib')) # greet('Hello World')
+print(greet('Sanjib')) # greet('Hello Sanjib')
 
 def add(a, b):
     """
