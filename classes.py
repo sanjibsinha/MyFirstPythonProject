@@ -35,7 +35,7 @@ class Dog:
 dog1 = Dog("Buddy", 2)
 
 # calling the bark method
-dog1.bark()
+dog1.bark() # Dog.bark(dog1)
 
 # calling the birthday method
 dog1.birthday()
